@@ -14,6 +14,7 @@ export let config:Config = {
         browserName: 'chrome'
              
   },
+  //for test case
     specs: ['../features/demo.feature'],
 
     cucumberOpts: {
